@@ -38,8 +38,8 @@
 
 ## 🌐 Connect with Me
 
-[![LinkedIn] (https://img.shields.io/badge/LinkedIn-Sowjanya%20Ananthasetty-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sowjanyaananthasetty)
-[![GitHub] (https://img.shields.io/badge/GitHub-Sowjanya--Ananthasetty-black?style=for-the-badge&logo=github)](https://github.com/Sowjanya-Ananthasetty)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sowjanya%20Ananthasetty-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sowjanyaananthasetty)
+[![GitHub](https://img.shields.io/badge/GitHub-Sowjanya--Ananthasetty-black?style=for-the-badge&logo=github)](https://github.com/Sowjanya-Ananthasetty)
 
 ---
 ⭐ *"Code. Learn. Build. Repeat."*
